@@ -1,0 +1,98 @@
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../font/Montserrat-Medium.ttf');
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    font-family: 'Montserrat';
+}
+
+/* Navigation menu */
+
+.navbar-brand {
+    font-family: 'Montserrat';
+    font-weight: 500;
+}
+
+.navbar-light .navbar-nav .nav-link .active,
+.navbar-light .navbar-nav .show > .nav-link,
+.navbar-light .navbar-nav .nav-link {
+    font-family: 'Montserrat';
+    font-weight: 500;
+    font-size: 14px;
+    padding: 10px 20px;
+}
+
+/* /Navigation menu */
+
+
+/* Home */
+
+.custom-home {
+    background-color: #F0F5F9;
+    padding: 150px 0 100px 0;
+}
+
+/* /Home */
+
+
+/* About */
+
+.about-card__image {
+    width: 80px;
+}
+
+/* /About */
+
+
+/* About */
+
+.features-container {
+    background-color: #F0F5F9;
+}
+
+/* /About */
+
+
+/* Results */
+
+.results-img {
+    width: 80px;
+}
+
+/* /Results */
+
+
+/* Reviews */
+
+.reviews-container {
+    background-color: #F0F5F9;
+}
+
+.car-item img {
+    width: 60px;
+}
+
+/* /Reviews */
+
+
+/* Pricing */
+
+.pricing-card__style > div {
+    background-color: #f0f5f9;
+}
+
+.pricing-card__style img {
+    width: 120px;
+}
+
+/* /Pricing */
+
+
+/* FAQ */
+
+.container-faq {
+    background-color: #F0F5F9;
+}
+
+/* /FAQ */
